@@ -1,1 +1,0 @@
-# Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance
