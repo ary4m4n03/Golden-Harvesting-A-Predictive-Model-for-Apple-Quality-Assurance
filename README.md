@@ -1,6 +1,4 @@
-Got it! Here's a clean and professional **README** for your **Golden Harvesting** project—no mention of "forked" or anything extra like badges. It’s simple, original, and focused on your work:
 
----
 
 # 🍎 Golden Harvesting – Predictive Model for Apple Quality Assurance
 
