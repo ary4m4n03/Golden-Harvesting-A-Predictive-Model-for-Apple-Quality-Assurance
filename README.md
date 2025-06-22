@@ -1,6 +1,6 @@
 
 
-# Golden Harvesting – Predictive Model for Apple Quality Assurance
+# Golden Harvesting – A Predictive Model for Apple Quality Assurance
 
 A machine learning project that evaluates apple quality as 'good' or 'bad' based on various features such as size, weight, sweetness, crunchiness, juiciness, ripeness and acidity, helping automate and enhance quality control processes in agriculture.
 
