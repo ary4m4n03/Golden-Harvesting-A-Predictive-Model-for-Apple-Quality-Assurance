@@ -1,12 +1,12 @@
 
 
-# 🍎 Golden Harvesting – Predictive Model for Apple Quality Assurance
+# Golden Harvesting – Predictive Model for Apple Quality Assurance
 
 A machine learning project that evaluates apple quality as 'good' or 'bad' based on various features such as size, weight, sweetness, crunchiness, juiciness, ripeness and acidity, helping automate and enhance quality control processes in agriculture.
 
 ---
 
-## 💡 Overview
+## Overview
 
 Golden Harvesting is a predictive model designed to:
 
@@ -16,7 +16,7 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Python**
 * **Sklearn**
@@ -25,7 +25,7 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 📁 Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/
@@ -41,7 +41,7 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone the repo**
 
@@ -70,7 +70,7 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
-## 🔍 Model Features
+## Model Features
 
 * **High Accuracy**: 90%+, Implements advanced regularization (L1 & L2), which helps prevent overfitting.
 * **Parallel Processing**: Uses multithreading during training
@@ -78,7 +78,7 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
-## ✅ Future Enhancements
+## Future Enhancements
 
 * Deploy on mobile or edge devices (e.g., Raspberry Pi)
 * Real-time camera input using OpenCV
