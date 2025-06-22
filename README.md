@@ -70,6 +70,22 @@ Golden Harvesting is a predictive model designed to:
 
 ---
 
+## Screenshots
+
+* **Home**:
+
+   ![alt text](https://github.com/[ary4m4n03]/[Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance]/blob/[main]/home.jpg?raw=true)
+  
+* **Form**:
+
+   ![alt text](https://github.com/[ary4m4n03]/[Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance]/blob/[main]/form.jpg?raw=true)
+  
+* **Output**:
+
+   ![alt text](https://github.com/[ary4m4n03]/[Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance]/blob/[main]/output.jpg?raw=true)
+
+---
+
 ## Model Features
 
 * **High Accuracy**: 90%+, Implements advanced regularization (L1 & L2), which helps prevent overfitting.
