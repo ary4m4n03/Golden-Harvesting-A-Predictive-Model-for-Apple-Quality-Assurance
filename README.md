@@ -74,15 +74,15 @@ Golden Harvesting is a predictive model designed to:
 
 * **Home**:
 
-   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/assets/home.jpg?raw=true)
+   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/screenshots/home.png?raw=true)
   
 * **Form**:
 
-   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/assets/form.jpg?raw=true)
+   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/screenshots/form.png?raw=true)
   
 * **Output**:
 
-   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/assets/output.jpg?raw=true)
+   ![alt text](https://github.com/ary4m4n03/Golden-Harvesting-A-Predictive-Model-for-Apple-Quality-Assurance/blob/main/static/screenshots/output.png?raw=true)
 
 ---
 
